@@ -1,1 +1,2 @@
 # Automated-COVID-19-screening-framework-via-Deep-Convolutional-Neural-Network-with-Chest-X-ray
+Automated COVID-19 screening framework via Deep Convolutional Neural Network with Chest X-ray Medical Images. (n.d.). Automated COVID-19 Screening Framework via Deep Convolutional Neural Network With Chest X-ray Medical Images | IEEE Conference Publication | IEEE Xplore. https://ieeexplore.ieee.org/document/10067528
